@@ -21,3 +21,5 @@
    ```bash
    pip install -r requirements.txt
    ```
+2. **test cho 2.1**
+   - Lên trang https://www.kaggle.com/datasets/nih-chest-xrays/data tải images_001 tới 003, giải nén hết vô data/raw/images
