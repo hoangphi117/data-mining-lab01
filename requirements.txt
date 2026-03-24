@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+opencv-python
+Pillow
+nltk
+spacy
+missingno
+imbalanced-learn
