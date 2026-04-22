@@ -23,3 +23,5 @@
    ```
 2. **test cho 2.1**
    - Lên trang https://www.kaggle.com/datasets/nih-chest-xrays/data tải images_001 tới 003, giải nén hết vô data/raw/images
+3. **test cho 2.2**
+   https://www.kaggle.com/datasets/suhanigupta04/student-placement-prediction-dataset chèn vào data/raw/student_placement_raw.csv 
