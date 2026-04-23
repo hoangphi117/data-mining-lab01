@@ -146,5 +146,6 @@ Khuyến nghị chạy từ trên xuống dưới theo thứ tự cell.
 | Nguyễn Minh Quân | 23120339 | Thực hiện 2.2 - Tiền xử lý dữ liệu dạng bảng, viết báo cáo| `02_EDA_tabular.ipynb`|
 
 ### 6) Link tài nguyên ngoài
-#### Dữ liệu sau xử lí:
+#### Dữ liệu trước xử lí: 
+- https://drive.google.com/drive/folders/1Ev16y1J8_nQ1CCilH1_FgqLPHbmBGL8f?usp=sharing
 
